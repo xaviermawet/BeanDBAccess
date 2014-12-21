@@ -1,4 +1,4 @@
-package Main;
+package BeanDBAccessMain;
 
 import DB.BeanDBAccessMySQL;
 import java.beans.Beans;
